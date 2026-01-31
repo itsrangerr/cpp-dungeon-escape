@@ -2,7 +2,7 @@
  * Project: Dungeon Escape (2D Console Game)
  * Description: A survival game where player (P) must avoid traps (X) to reach the exit (E).
  * Language: C++
- * Author: [Your Name]
+ * Author: Rangerr
  */
 
 #include <iostream>
@@ -122,4 +122,5 @@ int main()
 
     system("pause");
     return 0;
+
 }
